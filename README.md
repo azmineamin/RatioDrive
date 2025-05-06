@@ -1,7 +1,9 @@
 **1 Project Title**
+
 RatioDrive: A database for a ride-sharing service
 
 **2 Project Description**
+
 A database designed for the purpose of effectively managing a carpooling service’s operations, the MySQL
 database includes vital information for drivers, users, and the business. The system tracks the user’s journey
 history with information such as dates, places, distance, length, fares, and ratings for the driver. It also
@@ -20,6 +22,7 @@ reviews. The end goal is to enable an application that offers a productive and s
 whole carpooling ecosystem, enhancing financial control, operational transparency, and user experience.
 
 **3 Project Objective**
+
 The objectives of this project are:
 • Ensure Rider and Driver Safety: The system will maintain detailed and accurate records of all users
 and drivers, including all sorts of identification documents and emergency contacts.
